@@ -5,7 +5,8 @@ body{
 .header{
     height: 70px;
     text-align: center;
-    background-color: #eee;
+    background-color: rgb(232, 231, 240);
+    color: rgb(22, 204, 228);
 }
 
 
@@ -21,13 +22,13 @@ main{
 .content{
     flex: 1;
     height: 1800px;
-    background-color: rgb(238, 234, 234);
+    background-color: rgb(195, 201, 201);
     text-align: center;
     margin: 0 10px 0 10px;
 }
 .localNavigation,.ad{
     text-align: center;
-    background-color: #888;
+    background-color: rgb(39, 9, 150);
     color: #fff;
     width: 500px;
 }
@@ -36,4 +37,3 @@ main{
     text-align: center;
     background-color: #eee;
 }
-
